@@ -19,7 +19,7 @@ Combino un background analítico y de gestión de proyectos con formación técn
 
 ## 🚀 Proyectos destacados
 
-*(sección en construcción — próximamente)*
+- [Predicción del estado de bombas de agua en Tanzania](https://github.com/AYALA225/pump-it-up-water-pumps-driven-data) — Modelo de clasificación (Random Forest) para la competición Pump it Up de DrivenData. 80,6% accuracy.
 
 ## 📫 Contacto
 
