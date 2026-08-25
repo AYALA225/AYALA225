@@ -23,7 +23,7 @@ Combino un background analítico y de gestión de proyectos con formación técn
 
 - 🔗 [Easy Loans — Dashboard de Business Intelligence (Tableau)](https://public.tableau.com/app/profile/alejandro.ayala2607/viz/TAREAEASYLOANS/INICIO) — Panel interactivo de análisis de operaciones de una compañía de préstamos: volumen de operaciones, impagos, KPIs y análisis geográfico.
 
-- - [Minería de Datos y Modelización Predictiva](https://github.com/AYALA225/data-mining-predictive-modeling) — Regresión lineal y logística, series temporales y técnicas no supervisadas (PCA, clustering) sobre tres datasets distintos.
+-  [Minería de Datos y Modelización Predictiva](https://github.com/AYALA225/data-mining-predictive-modeling) — Regresión lineal y logística, series temporales y técnicas no supervisadas (PCA, clustering) sobre tres datasets distintos.
 
     
 ## 📫 Contacto
