@@ -10,7 +10,7 @@ Combino un background analítico y de gestión de proyectos con formación técn
 - **Lenguajes:** Python, SQL
 - **Plataformas de datos:** Snowflake, Apache Spark
 - **Visualización:** Tableau, Power BI (en curso, certificación PL-300)
-- **Machine Learning:** TensorFlow / Keras
+- **Machine Learning:** RandomForest, XGBoost, TensorFlow / Keras
 - **Otros:** Excel avanzado
 
 ## 📜 Certificaciones
