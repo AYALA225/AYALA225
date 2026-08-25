@@ -19,13 +19,13 @@ Combino un background analítico y de gestión de proyectos con formación técn
 
 ## 🚀 Proyectos destacados
 
-- [Predicción del estado de bombas de agua en Tanzania](https://github.com/AYALA225/pump-it-up-water-pumps-driven-data) — Modelo de clasificación (Random Forest) para la competición Pump it Up de DrivenData. 80,6% accuracy.
+- 💧 [Predicción del estado de bombas de agua en Tanzania](https://github.com/AYALA225/pump-it-up-water-pumps-driven-data) — Modelo de clasificación (Random Forest) para la competición Pump it Up de DrivenData. 80,6% accuracy.
 
 - 🔗 [Easy Loans — Dashboard de Business Intelligence (Tableau)](https://public.tableau.com/app/profile/alejandro.ayala2607/viz/TAREAEASYLOANS/INICIO) — Panel interactivo de análisis de operaciones de una compañía de préstamos: volumen de operaciones, impagos, KPIs y análisis geográfico.
 
--  [Minería de Datos y Modelización Predictiva](https://github.com/AYALA225/data-mining-predictive-modeling) — Regresión lineal y logística, series temporales y técnicas no supervisadas (PCA, clustering) sobre tres datasets distintos.
+- ⚒️ [Minería de Datos y Modelización Predictiva](https://github.com/AYALA225/data-mining-predictive-modeling) — Regresión lineal y logística, series temporales y técnicas no supervisadas (PCA, clustering) sobre tres datasets distintos.
 
-- [Consultas SQL — Análisis de Ventas (Snowflake)](https://github.com/AYALA225/sql-queries) — Consultas de análisis de negocio y un caso práctico completo de segmentación de clientes sobre un esquema de ventas B2B.
+- 🗃️ [Consultas SQL — Análisis de Ventas (Snowflake)](https://github.com/AYALA225/sql-queries) — Consultas de análisis de negocio y un caso práctico completo de segmentación de clientes sobre un esquema de ventas B2B.
     
 ## 📫 Contacto
 
